@@ -48,3 +48,28 @@ box-shadow: 0 1px 2px #ccc, inset 0 1px 0 #fff;
 color: rgba(0,0,0,0.15);
 ```
 
+ **Viết thường các mã màu**
+ 
+ ```
+ color: #fff;
+ ```
+ 
+ **Sử dụng mã màu rút gọn nếu có thể**
+ 
+ ```
+ color: #000; // thay vì #000000
+ ```
+ 
+ Sử dụng dấu double quotes `"` trong  các item
+ 
+ ```
+ input[type="text"]
+ ```
+ 
+ Không nhập đơn vị nếu số là `0`
+ 
+ ```
+ margin: 0;
+ ```
+
+ 
