@@ -2,7 +2,10 @@
 Đưa ra tiêu chuẩn coding dành cho Frontend Developer.
 
 ## CSS
-Resource: http://codeguide.co/ > Syntax
+Nguồn: http://codeguide.co/
+Dịch và giải thích cụ thể: @khoipro
+
+### Cú pháp (Syntax)
 
 **Sử dụng tab space 2**
 
